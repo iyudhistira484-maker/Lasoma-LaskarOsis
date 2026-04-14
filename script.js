@@ -1567,7 +1567,7 @@ if (document.readyState === "loading") {
 
 const supabase = window.supabase.createClient(
   'https://mshxwhlwfwplodshalvu.supabase.co',
-  'sb_publishable_xxxxx'
+  'sb_publishable_mC6fqIYY6STjUvQC0ivRlA_sRRbyzy8'
 )
 
 await supabase
