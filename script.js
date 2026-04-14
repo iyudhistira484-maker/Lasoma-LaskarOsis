@@ -1564,14 +1564,3 @@ if (document.readyState === "loading") {
 } else {
   setupFeedbackSection();
 }
-
-const supabase = window.supabase.createClient(
-  'https://mshxwhlwfwplodshalvu.supabase.co',
-  'sb_publishable_mC6fqIYY6STjUvQC0ivRlA_sRRbyzy8'
-)
-
-await supabase
-  .from('comments')
-  .insert([
-    { nama: nama, pesan: pesan }
-  ])
