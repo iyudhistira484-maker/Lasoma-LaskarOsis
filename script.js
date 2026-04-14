@@ -1566,7 +1566,7 @@ if (document.readyState === "loading") {
 }
 
 const supabase = window.supabase.createClient(
-  'https://xxxx.supabase.co',
+  'https://mshxwhlwfwplodshalvu.supabase.co',
   'sb_publishable_xxxxx'
 )
 
