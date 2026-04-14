@@ -1565,3 +1565,13 @@ if (document.readyState === "loading") {
   setupFeedbackSection();
 }
 
+const supabase = window.supabase.createClient(
+  'https://xxxx.supabase.co',
+  'sb_publishable_xxxxx'
+)
+
+await supabase
+  .from('comments')
+  .insert([
+    { nama: nama, pesan: pesan }
+  ])
