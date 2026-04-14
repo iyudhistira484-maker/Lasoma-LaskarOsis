@@ -1564,3 +1564,12 @@ if (document.readyState === "loading") {
 } else {
   setupFeedbackSection();
 }
+
+document.querySelectorAll(".social-button").forEach(button => {
+  button.addEventListener("click", () => {
+    const link = button.getAttribute("data-link");
+    if (link) {
+      window.open(link, "_blank");
+    }
+  });
+});
