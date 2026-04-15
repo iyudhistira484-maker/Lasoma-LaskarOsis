@@ -1,0 +1,24 @@
+{
+  "name": "lasoma-sman5tbn",
+  "version": "1.0.0",
+  "description": "Lasoma SMAN 5 TUBAN - Website resmi OSIS dengan Vercel Web Analytics",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "vercel deploy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iyudhistira484-maker/Lasoma-LaskarOsis.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iyudhistira484-maker/Lasoma-LaskarOsis/issues"
+  },
+  "homepage": "https://github.com/iyudhistira484-maker/Lasoma-LaskarOsis#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
