@@ -382,7 +382,7 @@ const osisStructure = {
     },
     
     {
-      name: "Nikeizya Ameliana Hafidzah",
+      name: "Nikeizya Amelyana Hafidzah",
       role: "Sekretaris I",
       className: "XI F",
       division: "Administrasi",
@@ -465,9 +465,9 @@ const osisStructure = {
         "https://www.image2url.com/r2/default/images/1776172814887-c60d250d-dbf0-4e5c-bc39-e00ee7ae7a10.jpg"
     },
     {
-      name: "(nama pengurus)",
-      role: "Ketua Sekbid V",
-      className: "XI (isi)",
+      name: "Jovita Wanda Kirana",
+      role: "Koordinator Sekbid Budi Pekerti Luhur",
+      className: "XI B",
       division: "Demokrasi & HAM",
       description:
         "Membuka ruang aspirasi, diskusi, musyawarah, dan pembelajaran demokrasi yang sehat di lingkungan sekolah.",
@@ -475,9 +475,9 @@ const osisStructure = {
         "https://www.image2url.com/r2/default/images/1776172814887-c60d250d-dbf0-4e5c-bc39-e00ee7ae7a10.jpg"
     },
     {
-      name: "(nama pengurus)",
-      role: "Ketua Sekbid VI",
-      className: "XI (isi)",
+      name: "Aurelliya Avisa Iftitah Ramadhani",
+      role: "Koordinator Sekbid Apresiasi Seni",
+      className: "XI A",
       division: "Kreativitas & Kewirausahaan",
       description:
         "Mengembangkan kreativitas, inovasi, karya siswa, dan semangat kewirausahaan melalui program OSIS.",
@@ -485,9 +485,9 @@ const osisStructure = {
         "https://www.image2url.com/r2/default/images/1776172814887-c60d250d-dbf0-4e5c-bc39-e00ee7ae7a10.jpg"
     },
     {
-      name: "(nama pengurus)",
-      role: "Ketua Sekbid VII",
-      className: "XI (isi)",
+      name: "Cikita Dwi Safitri",
+      role: "Koordinator Sekbid Kewirausahaan",
+      className: "XI D",
       division: "Jasmani & Kesehatan",
       description:
         "Mengelola program olahraga, kesehatan, kebugaran, dan gaya hidup aktif bagi seluruh siswa.",
@@ -495,9 +495,9 @@ const osisStructure = {
         "https://www.image2url.com/r2/default/images/1776172814887-c60d250d-dbf0-4e5c-bc39-e00ee7ae7a10.jpg"
     },
     {
-      name: "(nama pengurus)",
-      role: "Ketua Sekbid VIII",
-      className: "XI (isi)",
+      name: "Niko Juliansyah",
+      role: "Koordinator Sekbid Kesehatan Jasmani",
+      className: "XI C",
       division: "Sastra & Budaya",
       description:
         "Menghidupkan kegiatan seni, sastra, budaya, literasi, dan ekspresi kreatif siswa.",
@@ -505,25 +505,15 @@ const osisStructure = {
         "https://www.image2url.com/r2/default/images/1776172814887-c60d250d-dbf0-4e5c-bc39-e00ee7ae7a10.jpg"
     },
     {
-      name: "(nama pengurus)",
-      role: "Ketua Sekbid IX",
-      className: "XI (isi)",
+      name: "Mecky Dail Abila",
+      role: "Koordinator Sekbid Publikasi Dokumentasi",
+      className: "XI E",
       division: "Teknologi Informasi",
       description:
         "Mengembangkan publikasi digital, teknologi, desain, dokumentasi, dan media informasi OSIS.",
       photo:
         "https://www.image2url.com/r2/default/images/1776172814887-c60d250d-dbf0-4e5c-bc39-e00ee7ae7a10.jpg"
     },
-    {
-      name: "(nama pengurus)",
-      role: "Ketua Ssekbid XII",
-      className: "XI (isi)",
-      division: "Komunikasi & Publikasi",
-      description:
-        "Mengatur komunikasi, dokumentasi, publikasi kegiatan, dan citra positif OSIS di lingkungan sekolah.",
-      photo:
-        "https://www.image2url.com/r2/default/images/1776172814887-c60d250d-dbf0-4e5c-bc39-e00ee7ae7a10.jpg"
-    }
   ]
 };
 
