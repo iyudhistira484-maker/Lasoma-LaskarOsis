@@ -359,9 +359,9 @@ setupFotoBersama();
 
 const osisStructure = {
   leader: {
-    name: "Dawwas",
+    name: "Praditia Dawwas Pambudi",
     role: "Ketua OSIS",
-    className: "XI (isi)",
+    className: "XI E",
     division: "Pimpinan Utama",
     description:
       "Memimpin arah gerak kabinet, mengambil keputusan strategis, dan memastikan seluruh program OSIS berjalan selaras dengan visi organisasi.",
@@ -371,29 +371,20 @@ const osisStructure = {
 
   core: [
     {
-      name: "(nama pengurus)",
+      name: "Srikandi Puspita Sayekti",
       role: "Wakil Ketua I",
-      className: "XI (isi)",
+      className: "X A",
       division: "Koordinasi Internal",
       description:
         "Menguatkan komunikasi antaranggota, menjaga kedisiplinan, dan mendampingi ketua dalam pengelolaan internal OSIS.",
       photo:
         "https://www.image2url.com/r2/default/images/1776172814887-c60d250d-dbf0-4e5c-bc39-e00ee7ae7a10.jpg"
     },
+    
     {
-      name: "(nama pengurus)",
-      role: "Wakil Ketua II",
-      className: "XI (isi)",
-      division: "Koordinasi Eksternal",
-      description:
-        "Membangun hubungan OSIS dengan warga sekolah serta mendukung pelaksanaan program yang melibatkan banyak pihak.",
-      photo:
-        "https://www.image2url.com/r2/default/images/1776172814887-c60d250d-dbf0-4e5c-bc39-e00ee7ae7a10.jpg"
-    },
-    {
-      name: "(nama pengurus)",
+      name: "Nikeizya Ameliana Hafidzah",
       role: "Sekretaris I",
-      className: "XI (isi)",
+      className: "XI F",
       division: "Administrasi",
       description:
         "Mengatur dokumen, notulensi, surat-menyurat, dan arsip organisasi agar seluruh kegiatan tercatat dengan rapi.",
@@ -401,9 +392,9 @@ const osisStructure = {
         "https://www.image2url.com/r2/default/images/1776172814887-c60d250d-dbf0-4e5c-bc39-e00ee7ae7a10.jpg"
     },
     {
-      name: "(nama pengurus)",
+      name: "Anindra Agisna Wibowo",
       role: "Sekretaris II",
-      className: "X (isi)",
+      className: "X D",
       division: "Administrasi Pendukung",
       description:
         "Membantu pengelolaan administrasi, pendataan kegiatan, dan koordinasi kebutuhan dokumen OSIS.",
@@ -411,9 +402,9 @@ const osisStructure = {
         "https://www.image2url.com/r2/default/images/1776172814887-c60d250d-dbf0-4e5c-bc39-e00ee7ae7a10.jpg"
     },
     {
-      name: "(nama pengurus)",
+      name: "Cantika Eka Safira",
       role: "Bendahara I",
-      className: "XI (isi)",
+      className: "XI F",
       division: "Keuangan",
       description:
         "Mengelola pemasukan, pengeluaran, dan laporan keuangan organisasi secara transparan dan bertanggung jawab.",
@@ -421,9 +412,9 @@ const osisStructure = {
         "https://www.image2url.com/r2/default/images/1776172814887-c60d250d-dbf0-4e5c-bc39-e00ee7ae7a10.jpg"
     },
     {
-      name: "(nama pengurus)",
+      name: "Adnan Septian Harianto",
       role: "Bendahara II",
-      className: "X (isi)",
+      className: "X E",
       division: "Keuangan Pendukung",
       description:
         "Mendampingi bendahara utama dalam pencatatan dana, kebutuhan kegiatan, dan rekap keuangan OSIS.",
@@ -434,9 +425,9 @@ const osisStructure = {
 
   divisions: [
     {
-      name: "(nama pengurus)",
-      role: "Ketua Sekbid I",
-      className: "XI (isi)",
+      name: "Rezha Delvi Septavia",
+      role: "Koordinator Sekbid Ketakwaan Terhadap Tuhan YME",
+      className: "XI E",
       division: "Keimanan & Ketakwaan",
       description:
         "Menggerakkan kegiatan keagamaan, pembiasaan karakter spiritual, dan program peningkatan nilai religius di lingkungan sekolah.",
@@ -444,9 +435,9 @@ const osisStructure = {
         "https://www.image2url.com/r2/default/images/1776172814887-c60d250d-dbf0-4e5c-bc39-e00ee7ae7a10.jpg"
     },
     {
-      name: "(nama pengurus)",
-      role: "Ketua Sekbid II",
-      className: "XI (isi)",
+      name: "Favian Satya Saputra",
+      role: "Koordinator Sekbid Kehidupan Berbangsa Dan Bernegara",
+      className: "XI F",
       division: "Budi Pekerti & Akhlak",
       description:
         "Mendorong budaya sopan santun, etika, kepedulian sosial, dan karakter positif seluruh siswa.",
@@ -454,9 +445,9 @@ const osisStructure = {
         "https://www.image2url.com/r2/default/images/1776172814887-c60d250d-dbf0-4e5c-bc39-e00ee7ae7a10.jpg"
     },
     {
-      name: "(nama pengurus)",
-      role: "Ketua Sekbid III",
-      className: "XI (isi)",
+      name: "Talita Ike Yuliawati",
+      role: "Koordinator Sekbid Pendidikan Pendahuluan Bela Negara",
+      className: "XI B",
       division: "Kepribadian Unggul",
       description:
         "Membangun mental kepemimpinan, kedisiplinan, tanggung jawab, dan sikap percaya diri siswa.",
@@ -464,9 +455,9 @@ const osisStructure = {
         "https://www.image2url.com/r2/default/images/1776172814887-c60d250d-dbf0-4e5c-bc39-e00ee7ae7a10.jpg"
     },
     {
-      name: "(nama pengurus)",
-      role: "Ketua Sekbid IV",
-      className: "XI (isi)",
+      name: "Reza Handri Oktavian",
+      role: "Koordinator Sekbid Berorganisasi Pendidikan Politik Dan Kepemimpinan",
+      className: "XI B",
       division: "Prestasi Akademik",
       description:
         "Mendukung kegiatan akademik, kompetisi, literasi, dan peningkatan prestasi siswa di berbagai bidang.",
