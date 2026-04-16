@@ -1,53 +1,34 @@
 const members = [
-  { name: "(isi)", role: "Wakil Ketua I", class: "XI (isi)" },
-  { name: "(isi)", role: "Wakil Ketua II", class: "XI (isi)" },
-  { name: "(isi)", role: "Sekretaris I", class: "XI (isi)" },
-  { name: "(isi)", role: "Sekretaris II", class: "X (isi)" },
-  { name: "(isi)", role: "Bendahara I", class: "XI (isi)" },
-  { name: "(isi)", role: "Bendahara II", class: "X (isi)" },
+  { name: "Nadia Agustin Eka Pratiwi", role: "Anggota Sekbid Ketakwaan Tuhan YME", class: "XI B" },
+  { name: "Michammad Muzakki", role: "Anggota Sekbid Ketakwaan Tuhan YME", class: "X E" },
+  { name: "Rama Naura Firdhausy", role: "Anggota sekbid Ketakwaan Tuhan YME", class: "X A" },
+  
+  { name: "Siti Lsnaeni", role: "Anggota Sekbid Berbangsa Dan Bernegara", class: "XI E" },
+  { name: "Destino Arif Prayoga", role: "Anggota Sekbid Berbangsa Dan Bernegara", class: "X C" },
 
-  { name: "(isi)", role: "Ketua Sekbid I", class: "XI (isi)" },
-  { name: "(isi)", role: "Anggota Sekbid I", class: "XI (isi)" },
-  { name: "(isi)", role: "Anggota Sekbid I", class: "X (isi)" },
+  { name: "Nur Eliza Syahrani Oktaviana", role: "Anggota Sekbid Bela Negara", class: "XI A" },
+  { name: "Rendi Rama Putra", role: "Anggota Sekbid Bela Negara", class: "X A" },
 
-  { name: "(isi)", role: "Ketua Sekbid II", class: "XI (isi)" },
-  { name: "(isi)", role: "Anggota Sekbid II", class: "XI (isi)" },
-  { name: "(isi)", role: "Anggota Sekbid II", class: "X (isi)" },
+  { name: "Shinta Dona Puspita", role: "Anggota Sekbid Politik Dan Kepemimpinan", class: "XI B" },
+  { name: "Raka Saputra", role: "Anggota Sekbid Politik Dan Kepemimpinan", class: "X F" },
 
-  { name: "(isi)", role: "Ketua Sekbid III", class: "XI (isi)" },
-  { name: "(isi)", role: "Anggota Sekbid III", class: "XI (isi)" },
-  { name: "(isi)", role: "Anggota Sekbid III", class: "XI (isi)" },
+  { name: "Avriana Aulia Putri", role: "Anggota Sekbid Budi Pekerti Luhur", class: "XI C" },
+  { name: "Ezra Ramadhani", role: "Anggota Sekbid Budi Pekerti Luhur", class: "X C" },
 
-  { name: "(isi)", role: "Ketua Sekbid IV", class: "XI (isi)" },
-  { name: "(isi)", role: "Anggota Sekbid IV", class: "XI (isi)" },
-  { name: "(isi)", role: "Anggota Sekbid IV", class: "X (isi)" },
-
-  { name: "(isi)", role: "Ketua Sekbid V", class: "XI (isi)" },
-  { name: "(isi)", role: "Anggota Sekbid V", class: "XI (isi)" },
-  { name: "(isi)", role: "Anggota Sekbid V", class: "X (isi)" },
-
-  { name: "(isi)", role: "Ketua Sekbid VI", class: "XI (isi)" },
-  { name: "(isi)", role: "Anggota Sekbid VI", class: "XI (isi)" },
-  { name: "(isi)", role: "Anggota Sekbid VI", class: "X (isi)" },
-
-  { name: "(isi)", role: "Ketua Sekbid VII", class: "XI (isi)" },
-  { name: "(isi)", role: "Anggota Sekbid VII", class: "XI (isi)" },
-  { name: "(isi)", role: "Anggota Sekbid VII", class: "X (isi)" },
-
-  { name: "(isi)", role: "Ketua Sekbid VIII", class: "XI (isi)" },
-  { name: "Raka Saputra", role: "Anggota Sekbid VIII", class: "XF (isi)" },
-  { name: "(isi)", role: "Anggota Sekbid VIII", class: "X (isi)" },
-
-  { name: "(isi)", role: "Ketua Sekbid IX", class: "XI (isi)" },
-  { name: "(isi)", role: "Anggota Sekbid IX", class: "XI (isi)" },
-  { name: "(isi)", role: "Anggota Sekbid IX", class: "X (isi)" },
-
-  { name: "(isi)", role: "Ketua Sekbid X", class: "XI (isi)" },
-  { name: "(isi)", role: "Anggota Sekbid X", class: "XI (isi)" },
-  { name: "(isi)", role: "Anggota Sekbid X", class: "X (isi)" },
-
-  { name: "(isi)", role: "Staf Ahli", class: "XI (isi)" },
-  { name: "(isi)", role: "Staf Ahli", class: "XI (isi)" }
+  { name: "Aji Bhagawat Gita Tri Mulyana", role: "Anggota Sekbid Apresiasi Seni", class: "XI F" },
+  { name: "Kiffty Anisa", role: "Anggota Sekbid Apresiasi Seni", class: "X F" },
+  { name: "Aji Setiawan Darma", role: "Anggota Sekbid Apresiasi Seni", class: "X F" },
+  
+  { name: "Dahnial Safieq shahriel", role: "Anggota Sekbid Kewirausahaan", class: "XI B" },
+  { name: "Melisa Aira Bella", role: "Anggota Sekbid Kewirausahaan", class: "X B" },
+  { name: "Attaya Kavita Ramadhani", role: "Anggota Sekbid Kewirausahaan", class: "X B" },
+    
+  { name: "Nindy Rahmawati", role: "Anggota Sekbid Kesehatan Jasmani", class: "X A" },
+  { name: "Dea Ayu Primanda", role: "Anggota Sekbid Kesehatan Jasmani", class: "X A" },
+  { name: "Shandy Fareza Arlaysia Putra", role: "Anggota Sekbid Kesehatan Jasmani", class: "X A" },
+  
+  { name: "Aprilia Lintang Ayu Keyla Farahdina", role: "Anggota Sekbid Publikasi Dokumentasi", class: "XI A" },
+  { name: "Nevila Amelia Putri", role: "Anggota Sekbid Publikasi Dokimentasi", class: "X E" }
 ];
 
 const membersGrid = document.getElementById("membersGrid");
