@@ -426,7 +426,7 @@ const osisStructure = {
   divisions: [
     {
       name: "Rezha Delvi Septavia",
-      role: "Koordinator Sekbid Ketakwaan Terhadap Tuhan YME",
+      role: "Koordinator Sekbid Ketakwaan Tuhan YME",
       className: "XI E",
       division: "Keimanan & Ketakwaan",
       description:
@@ -436,7 +436,7 @@ const osisStructure = {
     },
     {
       name: "Favian Satya Saputra",
-      role: "Koordinator Sekbid Kehidupan Berbangsa Dan Bernegara",
+      role: "Koordinator Sekbid Berbangsa Dan Bernegara",
       className: "XI F",
       division: "Budi Pekerti & Akhlak",
       description:
@@ -446,7 +446,7 @@ const osisStructure = {
     },
     {
       name: "Talita Ike Yuliawati",
-      role: "Koordinator Sekbid Pendidikan Pendahuluan Bela Negara",
+      role: "Koordinator Sekbid Bela Negara",
       className: "XI B",
       division: "Kepribadian Unggul",
       description:
@@ -456,7 +456,7 @@ const osisStructure = {
     },
     {
       name: "Reza Handri Oktavian",
-      role: "Koordinator Sekbid Berorganisasi Pendidikan Politik Dan Kepemimpinan",
+      role: "Koordinator Sekbid Politik Dan Kepemimpinan",
       className: "XI B",
       division: "Prestasi Akademik",
       description:
