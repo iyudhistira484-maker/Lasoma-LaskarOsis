@@ -340,7 +340,7 @@ setupFotoBersama();
 
 const osisStructure = {
   leader: {
-    name: "Praditia Dawwas Pambudi",
+    name: "Praditya Dawwas Pambudi",
     role: "Ketua OSIS",
     className: "XI E",
     division: "Pimpinan Utama",
@@ -459,9 +459,9 @@ const osisStructure = {
       name: "Aurelliya Avisa Iftitah Ramadhani",
       role: "Koordinator Sekbid Apresiasi Seni",
       className: "XI A",
-      division: "Kreativitas & Kewirausahaan",
+      division: "Sastra & Budaya",
       description:
-        "Mengembangkan kreativitas, inovasi, karya siswa, dan semangat kewirausahaan melalui program OSIS.",
+        "Menghidupkan Kegiatan seni, sastra, budaya, literasi, dan ekspresi kreatif siswa.",
       photo:
         "https://www.image2url.com/r2/default/images/1776172814887-c60d250d-dbf0-4e5c-bc39-e00ee7ae7a10.jpg"
     },
@@ -469,9 +469,9 @@ const osisStructure = {
       name: "Cikita Dwi Safitri",
       role: "Koordinator Sekbid Kewirausahaan",
       className: "XI D",
-      division: "Jasmani & Kesehatan",
+      division: "Kreativitas & Kewirausahaan",
       description:
-        "Mengelola program olahraga, kesehatan, kebugaran, dan gaya hidup aktif bagi seluruh siswa.",
+        "Mengembangkan kreativitas, inovasi, karya siswa, dan semangat kewirausahaan, melalui program OSIS.",
       photo:
         "https://www.image2url.com/r2/default/images/1776172814887-c60d250d-dbf0-4e5c-bc39-e00ee7ae7a10.jpg"
     },
@@ -479,9 +479,9 @@ const osisStructure = {
       name: "Niko Juliansyah",
       role: "Koordinator Sekbid Kesehatan Jasmani",
       className: "XI C",
-      division: "Sastra & Budaya",
+      division: "Jasmani & Kesehatan",
       description:
-        "Menghidupkan kegiatan seni, sastra, budaya, literasi, dan ekspresi kreatif siswa.",
+        "Mengelola program olahraga, kesehatan, kebugaran, dan gaya hidup aktif bagi seluruh siswa.",
       photo:
         "https://www.image2url.com/r2/default/images/1776172814887-c60d250d-dbf0-4e5c-bc39-e00ee7ae7a10.jpg"
     },
