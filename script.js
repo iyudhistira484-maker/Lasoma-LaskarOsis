@@ -1,9 +1,9 @@
 const members = [
   { name: "Nadia Agustin Eka Pratiwi", role: "Anggota Sekbid Ketakwaan Tuhan YME", class: "XI B" },
-  { name: "Michammad Muzakki", role: "Anggota Sekbid Ketakwaan Tuhan YME", class: "X E" },
+  { name: "Mochammad Muzakki", role: "Anggota Sekbid Ketakwaan Tuhan YME", class: "X E" },
   { name: "Rama Naura Firdhausy", role: "Anggota sekbid Ketakwaan Tuhan YME", class: "X A" },
   
-  { name: "Siti Lsnaeni", role: "Anggota Sekbid Berbangsa Dan Bernegara", class: "XI E" },
+  { name: "Siti Isnaeni", role: "Anggota Sekbid Berbangsa Dan Bernegara", class: "XI E" },
   { name: "Destino Arif Prayoga", role: "Anggota Sekbid Berbangsa Dan Bernegara", class: "X C" },
 
   { name: "Nur Eliza Syahrani Oktaviana", role: "Anggota Sekbid Bela Negara", class: "XI A" },
