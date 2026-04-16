@@ -35,7 +35,7 @@ const members = [
   { name: "(isi)", role: "Anggota Sekbid VII", class: "X (isi)" },
 
   { name: "(isi)", role: "Ketua Sekbid VIII", class: "XI (isi)" },
-  { name: "(isi)", role: "Anggota Sekbid VIII", class: "XI (isi)" },
+  { name: "Raka Saputra", role: "Anggota Sekbid VIII", class: "XF (isi)" },
   { name: "(isi)", role: "Anggota Sekbid VIII", class: "X (isi)" },
 
   { name: "(isi)", role: "Ketua Sekbid IX", class: "XI (isi)" },
