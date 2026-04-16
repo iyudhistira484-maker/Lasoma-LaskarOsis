@@ -19,7 +19,7 @@ const members = [
   { name: "Kiffty Anisa", role: "Anggota Sekbid Apresiasi Seni", class: "X F" },
   { name: "Aji Setiawan Darma", role: "Anggota Sekbid Apresiasi Seni", class: "X F" },
   
-  { name: "Dahnial Safieq shahriel", role: "Anggota Sekbid Kewirausahaan", class: "XI B" },
+  { name: "Dahnial Safieq Shahriel", role: "Anggota Sekbid Kewirausahaan", class: "XI B" },
   { name: "Melisa Aira Bella", role: "Anggota Sekbid Kewirausahaan", class: "X B" },
   { name: "Attaya Kavita Ramadhani", role: "Anggota Sekbid Kewirausahaan", class: "X B" },
     
