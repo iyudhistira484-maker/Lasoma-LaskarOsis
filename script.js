@@ -13,7 +13,7 @@ const members = [
   { name: "Raka Saputra", role: "Anggota Sekbid Politik Dan Kepemimpinan", class: "X F" },
 
   { name: "Avriana Aulia Putri", role: "Anggota Sekbid Budi Pekerti Luhur", class: "XI C" },
-  { name: "Ezra Ramadhani", role: "Anggota Sekbid Budi Pekerti Luhur", class: "X C" },
+  { name: "Ezra Ramadhan", role: "Anggota Sekbid Budi Pekerti Luhur", class: "X C" },
 
   { name: "Aji Bhagawat Gita Tri Mulyana", role: "Anggota Sekbid Apresiasi Seni", class: "XI F" },
   { name: "Kiffty Anisa", role: "Anggota Sekbid Apresiasi Seni", class: "X F" },
